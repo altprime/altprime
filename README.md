@@ -1,11 +1,7 @@
-# Hi there 👋
-
-<!--
-**anxrxdh/anxrxdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
-
+# Hi there!!!
+<br>
+Data Scientist | Armchair Philosopher | Aspiring Polymath <br>
+I have a keen interest in delveloping data science based business strategies. 
 <br>
 
 ## List of things that are keeping me busy:
