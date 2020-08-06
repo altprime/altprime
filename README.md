@@ -1,16 +1,82 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **anxrxdh/anxrxdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<br>
+
+## List of things that are keeping me busy:
+<img
+align='left'
+width='26px'
+alt='code'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/code-s-slash-line.svg
+/> Refreshing Deep Learning from the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) | [Official GitHub](https://github.com/the-deep-learners/deep-learning-illustrated)
+ 
+<img
+align='left'
+width='26px'
+alt='code'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/book-open-fill.svg
+/> The Wealth of Nations by Adam Smith
+
+<img
+align='left'
+width='26px'
+alt='code'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/movie.svg
+/> Brooklyn Nine Nine
+
+
+<br>
+
+## Languages and Tools
+
+<img align='left'
+width='26px'
+alt='Python'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/python.svg
+/>
+<img align='left'
+width='26px'
+alt='R'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/rstudio.svg
+/>
+<img align='left'
+width='26px'
+alt='SQL'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/mysql.svg
+/>
+<img align='left'
+width='26px'
+alt='SPSS'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/spss.png
+/>
+<img align='left'
+width='26px'
+alt='Anaconda'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/anaconda.svg
+/>
+<img align='left'
+width='26px'
+alt='Jupyter'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/jupyter.svg
+/>
+<img align='left'
+width='26px'
+alt='PyCharm'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/pycharm.svg
+/>
+<img align='left'
+width='26px'
+alt='Github'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/github.svg
+/>
+<img align='left'
+width='26px'
+alt='Github'
+src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/visualstudiocode.svg
+/>
