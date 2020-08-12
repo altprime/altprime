@@ -79,6 +79,6 @@ alt='Github'
 src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/visualstudiocode.svg
 />
 
-## Stats
+
 <br>![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
 <br>
