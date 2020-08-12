@@ -1,5 +1,5 @@
 # Hi there  <img src="https://github.com/anxrxdh/anxrxdh/blob/master/logos/wave.gif" width="30">
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-tiwari/)](https://www.linkedin.com/in/anirudh-tiwari/)  ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
 <br> 
 
 Data Scientist | Armchair Philosopher | Aspiring Polymath <br>
@@ -80,5 +80,5 @@ src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/visualstudiocode.svg
 />
 
 
-<br>![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
+<br>
 <br>
