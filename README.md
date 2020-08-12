@@ -76,6 +76,4 @@ width='26px'
 alt='Github'
 src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/visualstudiocode.svg
 />
-<p align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
-</p>
+<br>![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
