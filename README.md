@@ -1,5 +1,7 @@
-# Hi there!!!
-<br>
+# Hi there  <img src="https://github.com/anxrxdh/anxrxdh/blob/master/logos/wave.gif" width="30">
+
+<br> 
+
 Data Scientist | Armchair Philosopher | Aspiring Polymath <br>
 I have a keen interest in delveloping data science based business strategies. 
 <br>
@@ -76,4 +78,7 @@ width='26px'
 alt='Github'
 src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/visualstudiocode.svg
 />
+
+## Stats
 <br>![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=plastic)
+<br>
