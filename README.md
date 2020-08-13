@@ -9,7 +9,9 @@ Data Scientist | Armchair Philosopher | Aspiring Polymath <br>
 I have a keen interest in delveloping data science based business strategies. 
 
 <br>
+
 ## List of things that are keeping me busy:
+
 <img
 align='left'
 width='26px'
