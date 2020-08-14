@@ -52,7 +52,6 @@ src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/movie.svg
 ![Keras Badge](https://img.shields.io/badge/-Keras-red?style=plastic&logo=keras&logoColor=white)
 ![Pytorch Badge](https://img.shields.io/badge/-Pytorch-black?style=plastic&logo=PyTorch&logoColor=red)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=darkblue)
-<br>
 ![Tableau Badge](https://img.shields.io/badge/-Tableau-lightgrey?style=plastic&logo=Tableau&logoColor=darkblue)
 ![Talend Badge](https://img.shields.io/badge/-Talend-blue?style=plastic&logo=Talend&logoColor=brightgreen)
 ![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=plastic&logo=amazon-AWS&logoColor=white)
