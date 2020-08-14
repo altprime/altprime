@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-tiwari/)](https://www.linkedin.com/in/anirudh-tiwari/)  ![](https://komarev.com/ghpvc/?username=anxrxdh&color=grey&style=plastic) 
 <br>
 
-
 Data Scientist | Armchair Philosopher | Aspiring Polymath <br>
 I have a keen interest in delveloping data science based business strategies. 
 
@@ -49,6 +48,10 @@ src=https://github.com/anxrxdh/anxrxdh/blob/master/logos/movie.svg
 ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-yellow?style=plastic&logo=pycharm&logoColor=white)
 ![SPSS Badge](https://img.shields.io/badge/-SPSS-red?style=plastic&logo=SPSS&logoColor=white)
 ![SAS Badge](https://img.shields.io/badge/-SAS-blue?style=plastic&logo=SAS&logoColor=white)
+![Tensorflow Badge](https://img.shields.io/badge/-TensorFlow-black?style=plastic&logo=tensorflow&logoColor=yellow)
+![Keras Badge](https://img.shields.io/badge/-Keras-red?style=plastic&logo=keras&logoColor=white)
+![Pytorch Badge](https://img.shields.io/badge/-Pytorch-black?style=plastic&logo=PyTorch&logoColor=red)
+![Pandas Badge](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=darkblue)
 <br>
 ![Tableau Badge](https://img.shields.io/badge/-Tableau-lightgrey?style=plastic&logo=Tableau&logoColor=darkblue)
 ![Talend Badge](https://img.shields.io/badge/-Talend-blue?style=plastic&logo=Talend&logoColor=brightgreen)
